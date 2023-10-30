@@ -13,7 +13,7 @@
  | Főváros | Wellington |
 | ----------- | ----------- |
 | Népesség | 5,1millió |
-| Földrész | Óceánia |
+| Földrész | Ausztrália és Óceánia |
 
  A másik legközelebbi nagyobb szárazföld 
  délen :
