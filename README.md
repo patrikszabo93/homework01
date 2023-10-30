@@ -15,3 +15,12 @@
 | Népesség | 5,1millió |
 | Földrész | Óceánia |
 
+ A másik legközelebbi nagyobb szárazföld 
+ délen :
+ - Antarktisz 
+
+
+ Északon:
+- Új-Kaledónia  
+- Fidzsi-szigetek 
+- Tonga szigetek helyezkednek el viszonylag közel.
